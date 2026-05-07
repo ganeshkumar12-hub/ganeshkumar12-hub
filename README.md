@@ -93,15 +93,10 @@ A Speech Emotion Recognition (SER) system that predicts human emotions from audi
 # 🏆 Achievements & Certifications
 
 ✅ Java Programming Fundamentals — Infosys Springboard  
-
 ✅ SQL Basics — HackerRank  
-
 ✅ MERN Stack Developer Certification — Infosys Springboard  
-
 ✅ Data Visualization: Empowering Business with Effective Insights — Forage  
-
 ✅ Data Structures and Algorithms: The Complete Masterclass — Infosys Springboard  
-
 ✅ Active Volunteer at VTVO
 
 
