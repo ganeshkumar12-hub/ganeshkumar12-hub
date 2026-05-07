@@ -94,6 +94,7 @@ A Speech Emotion Recognition (SER) system that predicts human emotions from audi
 ✅ **MERN Stack Developer Certification** - Infosys Springboard  
 ✅ **Data Visualization: Empowering Business with Effective Insights** - Forage  
 ✅ **Data Structures and Algorithms: The Complete Masterclass** - Infosys Springboard
+
 ✅ **Sql Basics** - HackerRank
 ✅ Active volunteer at VTVO
 
