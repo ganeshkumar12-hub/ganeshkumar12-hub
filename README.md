@@ -98,7 +98,6 @@ A Speech Emotion Recognition (SER) system that predicts human emotions from audi
 ✅ Active volunteer at VTVO
 
 
-
 ---
 
 ## 📈 What I'm Up To
