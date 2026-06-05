@@ -1,4 +1,4 @@
-# Hi there, I'm Seeripi Ganesh Kumar 👋
+ Hi there, I'm Seeripi Ganesh Kumar 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/seeripi-ganesh-kumar/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=google-chrome)](https://seeripi-ganesh-portfolio-k7h4.vercel.app/)
@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Information Science Engineering student** at R N S Institute of Technology (CGPA: 8.78) with a strong interest in **AI, Deep Learning, and Full-Stack Development,Data Analytics**. I love solving complex problems, building efficient solutions, and working on innovative projects that bridge theoretical knowledge with real-world applications.
+I'm a passionate **Information Science Engineering student** at R N S Institute of Technology (CGPA: 8.94) with a strong interest in **AI, Deep Learning, and Full-Stack Development,Data Analytics**. I love solving complex problems, building efficient solutions, and working on innovative projects that bridge theoretical knowledge with real-world applications.
 
 🔭 Currently working on **TexFusion** - an AI-powered textile quality inspection system (nominated for patent filing under KSCST)  
 🌱 Learning all kinds of **Technologies and TechStacks**
