@@ -1,7 +1,7 @@
  Hi there, I'm Seeripi Ganesh Kumar 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/seeripi-ganesh-kumar/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=google-chrome)](https://seeripi-ganesh-portfolio-k7h4.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=google-chrome)](https://seeripi-ganesh-kumar-portfolio-czkk.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-seeripi.ganeshkumar%40gmail.com-red?style=flat&logo=gmail)](mailto:seeripi.ganeshkumar@gmail.com)
 
 ## 👨‍💻 About Me
@@ -117,7 +117,7 @@ I'm always excited to collaborate on interesting projects or discuss technology!
 
 - 📧 Email: seeripi.ganeshkumar@gmail.com
 - 💼[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/seeripi-ganesh-kumar/)
-- 🌐[![Portfolio](https://seeripi-ganesh-kumar-portfolio-czkk.vercel.app/)
+- 🌐[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=google-chrome)](https://seeripi-ganesh-kumar-portfolio-czkk.vercel.app/)
 
 ---
 
